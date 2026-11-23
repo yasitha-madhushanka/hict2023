@@ -1,0 +1,7 @@
+{
+  "name": "HICT 23/24 Birthday Celebrations",
+  "description": "Birthday celebration portal for HICT 23/24 students featuring live upcoming birthday countdowns, celebratory poster gallery, and student profiles.",
+  "Description": "Set applet metadata for HICT 23/24 Birthday Celebrations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
